@@ -1,6 +1,5 @@
 //VARIABLES
 const num1 = Math.floor(Math.random() * (20 - 0 + 1)) + 0
-
 const num2 = Math.floor(Math.random() * (20 - 0 + 1)) + 0
 const question = document.getElementById("question")
 let currentScore = document.getElementById('score')
